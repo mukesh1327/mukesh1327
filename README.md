@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🚀 OpenShift & Kubernetes Administrator | DevOps Engineer | CI/CD Enthusiast   
+🚀 OpenShift & Kubernetes Administrator | DevOps and Cloud Engineer | CI/CD Enthusiast   
 💡 Experienced in containerized applications, system reliability, and scalability   
 🔧 Skilled in Docker, Helm, ArgoCD, Ansible, and OpenTelemetry   
 👷 Contributor to OpenDataHub's DataMesh Platform, with deep expertise in DataMesh architecture and deployment     
