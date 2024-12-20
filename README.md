@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 
-🚀 OpenShift & Kubernetes Administrator | DevOps Engineer | CI/CD Enthusiast
-💡 Experienced in containerized applications, system reliability, and scalability
-🔧 Skilled in Docker, Helm, ArgoCD, Ansible, and OpenTelemetry
-👷 Contributor to OpenDataHub's DataMesh Platform, with deep expertise in DataMesh architecture and deployment
-⚡ Proficient in observability, including monitoring power consumption of containers for sustainable operations
-🖥️ Experienced in edge device setup and maintenance using Ansible automation
-🛠️ Advanced skills in GitHub Actions and Tekton for CI/CD pipelines
-📦 Passionate about GitOps, automation, and optimizing deployment pipelines
+🚀 OpenShift & Kubernetes Administrator | DevOps Engineer | CI/CD Enthusiast   
+💡 Experienced in containerized applications, system reliability, and scalability   
+🔧 Skilled in Docker, Helm, ArgoCD, Ansible, and OpenTelemetry   
+👷 Contributor to OpenDataHub's DataMesh Platform, with deep expertise in DataMesh architecture and deployment     
+⚡ Proficient in observability, including monitoring power consumption of containers for sustainable operations   
+🖥️ Experienced in edge device setup and maintenance using Ansible automation    
+🛠️ Advanced skills in GitHub Actions and Tekton for CI/CD pipelines    
+📦 Passionate about GitOps, automation, and optimizing deployment pipelines   
 🌟 Let's collaborate and innovate!
 
 
